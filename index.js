@@ -1,6 +1,6 @@
 // run `node index.js` in the terminal
 
-console.log(`Hello Node.js v${process.versions.node}!`);
+console.log(`test with readline v${process.versions.node}!`);
 
 const readline = require('readline'); 
 
